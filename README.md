@@ -1,2 +1,2 @@
 # parabank-playwright-tests
-Parabank demo tests
+This is a demo for Parabank site. To test Playwright.
